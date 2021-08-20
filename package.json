@@ -1,0 +1,22 @@
+{
+  "name": "globalpay",
+  "version": "1.0.0",
+  "description": "Готовое решение для использования GlobalPay.bz API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "globalpay",
+    "globalpaybz"
+  ],
+  "author": "globalpay",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.6.1",
+    "axios": "^0.21.1",
+    "sha256": "^0.2.0",
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {}
+}
